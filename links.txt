@@ -1,0 +1,20 @@
+0. Handbook
+-> https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+1. Basics/tsconfig
+-> https://www.youtube.com/watch?v=BwuLxPH8IDs
+
+2. React with Typescript
+-> https://www.youtube.com/watch?v=Z5iWr6Srsj8&t=953s
+
+3. Generics in Typescript
+-> https://www.youtube.com/watch?v=nViEqpgwxHE&t=978s
+
+4. Utiliy types 
+-> https://www.youtube.com/watch?v=Fgcu_iB2X04&t=572s
+
+5. Declaration files
+-> https://www.youtube.com/watch?v=GVUPOvCRmSY
+
+6. Eslint
+-> https://www.youtube.com/watch?v=mg_pDqszL3g&t=54s
